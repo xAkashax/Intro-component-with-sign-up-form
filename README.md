@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-o6Mcar3WoI)
+- Live Site URL: [Live Demo](https://sprightly-wisp-40cdf9.netlify.app/)
 
 ## My process
 

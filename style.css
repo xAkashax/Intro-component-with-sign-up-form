@@ -29,7 +29,6 @@ body {
   font-family: var(--font);
   min-height: 100vh;
   color: #fff;
-  opacity: 0.9;
 }
 
 .container {
@@ -52,7 +51,7 @@ body {
 }
 
 .description h1 {
-  font-weight: var(--fw-600);
+  font-weight: var(--fw-700);
   padding: 0 0 15px;
   line-height: 1.3;
 }
